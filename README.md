@@ -1,4 +1,4 @@
-# socialmedia_app
+# sociolmedia_app
 Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark and white Mode | React, MongoDB, MUI and other funtionality.
 
 ![Screenshot_4](https://github.com/kunalBari5557/socialmedia_app/assets/96560938/f77a1015-73ee-4593-a6f7-4245b00aa179)
