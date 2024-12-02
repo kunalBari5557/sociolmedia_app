@@ -34,6 +34,8 @@ Below are some demo screenshots showcasing the latest features added to the Soci
 
 ![image](https://github.com/user-attachments/assets/7114b230-df07-45b5-a446-ddb1b8e2e8b2)
 
+![image](https://github.com/user-attachments/assets/acc2e819-c7e8-4326-ad7e-b029306c3f46)
+
 ![image](https://github.com/user-attachments/assets/9003ebb2-c669-4e4b-9e75-21a20680d6ca)
 
 ![image](https://github.com/user-attachments/assets/89fdbf55-cd8d-40e1-a151-464fa05c908c)
@@ -63,9 +65,3 @@ Below are some demo screenshots showcasing the latest features added to the Soci
 ![image](https://github.com/user-attachments/assets/70548337-998c-4c9d-af87-fedae03c2061)
 
 ![image](https://github.com/user-attachments/assets/1d072714-334f-4ed9-9b07-a3caf1119b7a)
-
-
-
-
-
-
