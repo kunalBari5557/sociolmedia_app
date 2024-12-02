@@ -1,7 +1,30 @@
 # sociolmedia_app
-You can Preview live app here last update 15 Dec 2023: https://sociolmedia-app.vercel.app/
+You can preview the live app here:
+Demo Version (Last Update 1 Year Ago): https://sociolmedia-app.vercel.app/
 
-This project is a fully-featured, responsive MERN (MongoDB, Express.js, React.js, Node.js) application designed to deliver a social-media-style user experience. It integrates modern features such as authentication, likes, comments, chats, and multiple UI/UX enhancements, including dark and light modes, 7-day timeline charts, bookmarking, archiving, and Instagram-style stories. The application uses Material-UI (MUI) for consistent and modern UI components, ensuring a professional and polished look.
+Latest Version (Updated on 02 Dec 2024): https://social-media-app-tawny.vercel.app/
+
+Overview
+The SociolMedia App is a fully-featured, responsive MERN (MongoDB, Express.js, React.js, Node.js) application designed to deliver a social-media-style user experience. With a modern, intuitive interface and a variety of powerful features, this app enables seamless user interaction through social media functionalities.
+
+Key Features:
+User Authentication: Secure login and registration with JWT authentication.
+Likes & Comments: Users can like and comment on posts.
+Chats: Real-time messaging between users.
+Dark and Light Modes: Toggle between dark and light themes for a personalized user experience.
+7-Day Timeline Chart: Visual representation of user activity over the past 7 days.
+Bookmarking & Archiving: Save, bookmark, and archive important posts.
+Instagram-Style Stories: Share stories in a style similar to Instagram’s feature.
+Close Friends Functionality: Add users to your close friends list for private sharing and interactions.
+Add Story Functionality: Users can easily upload stories to share with their followers.
+Archive Functionality: Archive posts and stories for later viewing without deleting them.
+Responsive Design: Works seamlessly across different devices and screen sizes.
+
+How to Buy
+If you're interested in purchasing this code or want more details, please contact me at kunalaage22@gmail.com. I offer licensing options for those looking
+to integrate or customize this application for their own projects.
+
+Below are some demo screenshots showcasing the latest features added to the SociolMedia App:
 
 ![Screenshot_4](https://github.com/kunalBari5557/socialmedia_app/assets/96560938/f77a1015-73ee-4593-a6f7-4245b00aa179)
 
